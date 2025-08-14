@@ -1,7 +1,5 @@
  ---
 
----
-
 # Faculty Development Programs Attended
 
 1. **7 Days International Professional Development Program (PDP) on SPSS** – PG & Research Department of Commerce (Shift-I), Patrician College of Arts & Science, 21–27 June 2021. [Certificate](https://drive.google.com/file/d/1aDDut7ud47PK36rtrPzv6p2-BSIdZ9GZ/view?usp=sharing)  
