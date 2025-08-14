@@ -1,6 +1,5 @@
  ---
-layout: page
-title: "FDP Attended"
+
 ---
 
 # Faculty Development Programs Attended
