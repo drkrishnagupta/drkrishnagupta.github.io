@@ -1,4 +1,7 @@
- ---
+---
+layout: page
+title: "FDP Attended"
+---
 
 # Faculty Development Programs Attended
 
@@ -15,5 +18,4 @@
 11. **5 Days FDP on Contemporary Issues and Methods of Financial Economics** – Amity University, Kolkata, 24–28 July 2023. [Certificate](https://drive.google.com/file/d/1a8PNdeks9F1qt6vzr2o_npbl5UHV3OFE/view?usp=sharing)  
 12. **2-Day FDP on Securities Operations and Risk Management** – National Institute of Securities Market, 27–28 Sept 2024. [Certificate](https://drive.google.com/file/d/1MjjN91nj8l0gkJvuZ61Dvrtzpi-r7qWn/view?usp=sharing)  
 13. **5 Days Executive Development Program (EDP) on Generative AI for All** – Graphic Era Deemed to be University, 19–23 March 2025.
-
 
