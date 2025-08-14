@@ -1,0 +1,18 @@
+title: "Dr. Krishna Gupta"
+description: "Academic Portfolio"
+theme: minima
+author: "Dr. Krishna Gupta"
+email: "krishna0605gupta@gmail.com"
+url: "https://drkrishnagupta.github.io"
+
+header_pages:
+  - index.md
+  - education.md
+  - awards.md
+  - publications.md
+  - book_chapters.md
+  - fdp.md
+  - workshops.md
+  - patents_projects.md
+
+markdown: kramdown
