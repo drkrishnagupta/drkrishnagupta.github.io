@@ -6,22 +6,20 @@ title: "Home"
 # Dr. Krishna Gupta
 
 **Assistant Professor**  
-Incharge, Department of Management Studies  
-Gurukula Kangri Deemed to be University, Haridwar, India  
+Department of BFSI  
+Graphic Era Hill University, Dehradun, India  
 
 📍 **Address:** 183, Dakra Bazar, Dehradun, Uttarakhand  
 📧 **Email:** [krishna0605gupta@gmail.com](mailto:krishna0605gupta@gmail.com)  
-📱 **Phone:** +91-7895277700  
+📱 **Phone:** +91-9568452058  
 🔗 [LinkedIn](https://www.linkedin.com/in/dr-krishna-gupta-978219212)
 
 ---
 
-## Career Objective
-To work in a challenging and dynamic environment and to keep adding value to the organization that I represent and serve, while also upgrading my skills and knowledge.
 
 ---
 
-## At a Glance
+## Research Accomplishments
 - **Research Papers Published:** 2  
 - **Book Chapters:** 2  
 - **Conference Proceedings:** 1  
