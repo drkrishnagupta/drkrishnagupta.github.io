@@ -29,7 +29,7 @@ title: "Workshops, Organized Events & Expert Lectures"
 
 12. **Ten Days ICSSR Sponsored Research Methodology Course in Social Sciences organised by Department of Management Studies, Bhagat Phool Singh Mahila Vishwavidyalaya, Sonepat, Haryana from 11th to 20th December 2023.** [Certificate](https://drive.google.com/file/d/1OQ-CJe661OCHpnadOzq_RvfHlxdyZ23N/view?usp=sharing)  
 
-13. **Online Seminar on “Covariance-Based Structural Equation Modelling Using Smart PLS4” organised by Bahcesehir Cyprus University, North Cyprus, Turkey on 30th January 2024.** [Certificate][Certificate](https://drive.google.com/file/d/173HAETUJdMJcvCHtXmnOeDjmV0ugOruS/view?usp=sharing)
+13. **Online Seminar on “Covariance-Based Structural Equation Modelling Using Smart PLS4” organised by Bahcesehir Cyprus University, North Cyprus, Turkey on 30th January 2024.** [Certificate](https://drive.google.com/file/d/173HAETUJdMJcvCHtXmnOeDjmV0ugOruS/view?usp=sharing)
  
 14. **Ten Days ICSSR Sponsored Online Workshop on “Research Methodology” organised by Vivekanand Education Society’s Institute of Management Studies & Research, Mumbai from 1st to 12th February 2024.**  [Certificate](https://drive.google.com/file/d/1EWu81FzuaaPcZXUJP8e-a2DGb2Jm2seO/view?usp=sharing)  
 
